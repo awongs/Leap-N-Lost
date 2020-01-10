@@ -1,4 +1,11 @@
-# Leap-N-Lost
+# Leap N Lost
+
+Built using XCode 11 for iOS 9.0+
+
+<p align="center">
+  <img src="https://imgur.com/rzIHQis.png">
+  <img src="https://imgur.com/keu9Udy.png">
+</p>
 
 Authors
 ------
